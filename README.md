@@ -10,13 +10,13 @@ Landing de una sola página para un club de pádel de Córdoba, Argentina. El ob
 
 ## Qué resuelve
 
-Negocio físico con buena demanda y sin presencia digital propia. El sitio concentra lo que el cliente necesita para decidir y reservar:
+Negocio físico que necesitaba una presencia digital propia. El sitio concentra lo que el cliente necesita para decidir y reservar:
 
 - **Hero con llamado directo a WhatsApp** en el encabezado y en el cuerpo de la página.
 - **Beneficios** (canchas, iluminación, ambiente) y **reseñas** de jugadores.
 - **Formulario corto** para dejar nombre y WhatsApp.
 - **Horarios y ubicación** del club.
-- **Mobile-first**: la mayoría de las reservas llegan desde el celular.
+- **Mobile-first**: pensado para abrirse y reservar desde el celular.
 
 ## Stack
 
