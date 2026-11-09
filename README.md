@@ -1,5 +1,27 @@
-# Despliegue de La Roca Padel Club
-Sigue estos pasos para tener tu sitio web permanente gratis:
-1. Ve a [Netlify Drop](https://app.netlify.com/drop)
-2. Arrastra la carpeta 'laroca-final' a la página.
-3. ¡Listo! Tu sitio estará activo con una URL permanente.
+# La Roca Padel Club · sitio web
+
+Landing de una sola página para un club de pádel de Córdoba, Argentina. El objetivo es simple: que quien busca cancha **reserve por WhatsApp en un par de toques**, sin pasar por formularios ni apps.
+
+<p align="center">
+  <img src="docs/desktop.png" alt="Versión escritorio" width="640">
+  &nbsp;
+  <img src="docs/mobile.png" alt="Versión móvil" width="180">
+</p>
+
+## Qué resuelve
+
+Negocio físico con buena demanda y sin presencia digital propia. El sitio concentra lo que el cliente necesita para decidir y reservar:
+
+- **Hero con llamado directo a WhatsApp** en el encabezado y en el cuerpo de la página.
+- **Beneficios** (canchas, iluminación, ambiente) y **reseñas** de jugadores.
+- **Formulario corto** para dejar nombre y WhatsApp.
+- **Horarios y ubicación** del club.
+- **Mobile-first**: la mayoría de las reservas llegan desde el celular.
+
+## Stack
+
+HTML, CSS y JavaScript en un solo `index.html` más una imagen. Sin build ni dependencias, para que sea rápido de cargar y fácil de mantener por alguien no técnico.
+
+## Cómo verlo o publicarlo
+
+Abrí `index.html` en el navegador. Para publicarlo gratis, seguí `INSTRUCCIONES_DESPLIEGUE.md` (Netlify o Vercel).
